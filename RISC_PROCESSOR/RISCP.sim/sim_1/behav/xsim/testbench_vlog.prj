@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../RISCP.gen/sources_1/ip/Main_Memory/sim/Main_Memory.v" \
+"../../../../RISCP.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" \
+"../../../../RISCP.srcs/sources_1/new/Instr_Mem.v" \
+"../../../../RISCP.srcs/sources_1/new/Main_ram.v" \
+"../../../../RISCP.srcs/sources_1/ip/RISC_GRP17.v" \
+"../../../../RISCP.srcs/sources_1/ip/RISC_GRP17_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

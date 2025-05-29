@@ -1,0 +1,11 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.gen/sources_1/ip/Main_Memory/sim/Main_Memory.v,1731756697,verilog,,C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,,Main_Memory,,,,,,,,
+C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1731757595,verilog,,C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.srcs/sources_1/new/Instr_Mem.v,,blk_mem_gen_0,,,,,,,,
+C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.srcs/sources_1/ip/RISC_GRP17.v,1731756205,verilog,,C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.srcs/sources_1/ip/RISC_GRP17_tb.v,,ALU;And;CLA;Mux2_1;Mux4_1;Not;Or;Xor;allreg;allregi;carry_adder;cmov;conditionb;controlunit;datapath;ham;incr;main_FPGA;regbank;signextend1;sla;sra;srl;sub;topmodule,,,,,,,,
+C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.srcs/sources_1/ip/RISC_GRP17_tb.v,1731595850,verilog,,,,testbench,,,,,,,,
+C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.srcs/sources_1/new/Instr_Mem.v,1730806628,verilog,,C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.srcs/sources_1/new/Main_ram.v,,Instr_Mem,,,,,,,,
+C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.srcs/sources_1/new/Main_ram.v,1730803737,verilog,,C:/Users/adhit/OneDrive/Desktop/Final_Processor/RISC_PROCESSOR/RISCP.srcs/sources_1/ip/RISC_GRP17.v,,Main_ram,,,,,,,,

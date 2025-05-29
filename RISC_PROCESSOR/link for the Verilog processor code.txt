@@ -1,0 +1,3 @@
+link for the Verilog processor code is :
+	https://drive.google.com/drive/folders/1eruoZdPWq_Ggja-BixaIaGewChWJJgiI?usp=sharing
+1.Instruction_mem_first_ten_load_store.coe  contains sum of first ten natural numbers
